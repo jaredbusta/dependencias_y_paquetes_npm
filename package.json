@@ -1,6 +1,6 @@
 {
   "name": "dependencias_y_paquetes_npm",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "practica de gestion de dependencias y paquetes con NPM",
   "main": "src/index.js",
   "scripts": {
