@@ -1,0 +1,25 @@
+{
+  "name": "dependencias_y_paquetes_npm",
+  "version": "1.0.1",
+  "description": "practica de gestion de dependencias y paquetes con NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lib_test": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredbusta/dependencias_y_paquetes_npm.git"
+  },
+  "keywords": [],
+  "author": "Jared Bustamante <jaredbusta@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/jaredbusta/dependencias_y_paquetes_npm/issues"
+  },
+  "homepage": "https://github.com/jaredbusta/dependencias_y_paquetes_npm#readme"
+}
